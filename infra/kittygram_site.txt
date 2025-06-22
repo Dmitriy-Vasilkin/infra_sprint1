@@ -1,0 +1,5 @@
+IP: 84.252.143.23;
+name_taski: https://taski-dmitriynv.zapto.org;
+name_kittygram: https://kit-dmitriynv.work.gd/;
+login: admin;
+password: admin;
